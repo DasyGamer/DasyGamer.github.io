@@ -1,0 +1,26 @@
+body{
+	background-color:DarkSlateGrey;
+ }
+ input{
+	padding: 13px 23px;
+	border: 5px soild crimson;
+	border-radius:15px;
+	 color: DarkOrange;
+	 font-weight:bold;
+	 font-family:'Comic Sans MS';	
+ background-color: DarkSlateGrey; 
+ }
+ #factbox{
+	border: 5px soild black;
+	border-radius: 22px;
+	margin: 13px;
+	padding: 17px;
+	width: 650px;
+	min-height:275px;
+	color:white;
+	 
+ }
+ img{
+	 width:200px;
+	 margin:30px;
+ }
